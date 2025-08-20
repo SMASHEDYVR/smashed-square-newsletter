@@ -1,0 +1,9 @@
+{
+  "name": "smashed-square-newsletter",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@square/square": "^40.0.0",
+    "nanoid": "^5.0.7"
+  }
+}
