@@ -1,4 +1,4 @@
-import { Client, Environment } from "@square/square";
+import { Client, Environment } from "/square";
 import { nanoid } from "nanoid";
 
 export default async function handler(req, res) {
